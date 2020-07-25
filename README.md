@@ -1,6 +1,13 @@
 ## 个人简历
+### 基础信息
 1. **name**: 齐思凯
 
+### 教育经历
+
+1. 2020-01-01 -- 2020-02-02 测试小学
+2. 2020-03-01 -- 2020-05-11 测试大学
+
+## 其他
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
