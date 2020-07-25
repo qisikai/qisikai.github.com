@@ -1,5 +1,5 @@
 ## 个人简历
-1. ** name **: 齐思凯
+1. **name**: 齐思凯
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
